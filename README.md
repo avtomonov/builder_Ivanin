@@ -1,4 +1,4 @@
-# builderIvanin
+# builder Insales Ivanin
 insales builder components
 Сборщик шаблонов для InSales
 
