@@ -12,6 +12,9 @@ insales builder components
 
 5 в папку с проектом заливаем папку project с гит хаба
 
-6 itb s itb b itb p itb w
+6 itb s
+  itb b
+  itb p 
+  itb w
 
 itb create logotype
