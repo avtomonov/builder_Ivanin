@@ -4,7 +4,7 @@ insales builder components
 
 1 npm i itb -g Устновка
 
-2 выбираем папку где будет проект
+2 выбираем папку где будет проект cd c:/papka
 
 3 itb init
 
